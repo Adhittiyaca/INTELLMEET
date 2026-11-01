@@ -2,7 +2,6 @@
 
 > Real-Time Video Meetings • AI Summaries • Smart Action Items • Team Collaboration
 
-Built with the MERN stack for Zidio Development – Web Development Domain.
 
 ---
 
