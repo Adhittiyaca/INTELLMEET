@@ -1,0 +1,10 @@
+# in root .gitignore
+node_modules/
+
+.DS_Store
+dist/
+
+.idea/
+.env
+.env.*
+!.env.example
